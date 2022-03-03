@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Titel">فرم ثبت اطلاعات</string>
+    <string name="Name">نام و نام خانودگی</string>
+    <string name="NationalCode">کد ملی</string>
+    <string name="placeOfBirth">محل تولد</string>
+    <string name="adress">آدرس</string>
+    <string name="submitInformation">ثبت اطلاعات</string>
+    <string name="fmail">زن</string>
+    <string name="mail">مرد</string>
+    <string name="PostalCode">کد پستی</string>
+</resources>
